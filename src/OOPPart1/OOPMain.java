@@ -6,6 +6,8 @@ public class OOPMain {
 		Zombie z = new Zombie();
 		t.display();
 		z.display();
+		t.tanCong();
+		z.tanCong();
 			
 
 	}
